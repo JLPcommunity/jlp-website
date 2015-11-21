@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+header {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #F44336;
+}
+h2 {
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+a.logo {
+  color: rgba(0, 0, 0, 0);
+}
+img.logo {
+  height: 60px;
+  margin: 10px;
+}
